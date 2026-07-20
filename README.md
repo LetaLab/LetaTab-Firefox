@@ -58,7 +58,7 @@ The easiest way to install Leta Tab is straight from Firefox's official add-on s
 
 <!-- Replace the two placeholder links below with your own uploaded Firefox screenshot URLs -->
 
-| Popup | Quality enforced on a video |
+| Popup | New Tab Configuration |
 |---|---|
 | <a href="https://github.com/user-attachments/assets/ea6738b8-81fc-4c22-9f68-13af26c938d3"><img width="100%" alt="Popup" src="https://github.com/user-attachments/assets/ea6738b8-81fc-4c22-9f68-13af26c938d3" /></a> | <a href="https://github.com/user-attachments/assets/590ad504-50b6-47fc-afe4-b12ae34c627b"><img width="100%" alt="New Tab Configuration" src="https://github.com/user-attachments/assets/590ad504-50b6-47fc-afe4-b12ae34c627b" /></a> |
 ## Features
