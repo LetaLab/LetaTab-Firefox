@@ -54,14 +54,6 @@ The easiest way to install Leta Tab is straight from Firefox's official add-on s
 
 [![Firefox Add-ons](https://img.shields.io/badge/Firefox%20Add--ons-Install-orange)](ADD-THIS-LATER)
 
-Until the store listing is live, you can also load it yourself for testing:
-
-1. Open `about:debugging#/runtime/this-firefox` in Firefox
-2. Click **Load Temporary Add-on**
-3. Select `manifest.json` inside the `leta-tab-firefox` folder
-
-A temporary add-on loaded this way is removed the next time Firefox restarts. Firefox only keeps an extension installed permanently once it has been signed by Mozilla, whether through the public store listing or through unlisted self-distribution, see [Known issues and support](#known-issues-and-support).
-
 ## Screenshots
 
 _Screenshots of the popup and New Tab page will be added here once the store listing is ready._
