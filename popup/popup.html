@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>LetaTab</title>
+<link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <header class="header">
+    <span class="title">LetaTab</span>
+    <label class="toggle" title="Enable or disable the New Tab redirect">
+      <input type="checkbox" id="enabled" checked>
+      <span class="slider"></span>
+    </label>
+  </header>
+
+  <label class="field-label" for="url">New Tab URL</label>
+  <input type="url" id="url" placeholder="https://example.com" spellcheck="false" autocomplete="off" autocapitalize="off">
+
+  <p class="hint" id="hint">Enter a full address, including https://. It opens every time you start a new tab.</p>
+
+  <div class="status" id="status">Saved</div>
+
+  <a class="letalab-link" href="https://letalab.eu" target="_blank" rel="noopener noreferrer">
+    <img src="../favicon.png" alt="" class="letalab-icon">
+    <span>Visit LetaLab.eu</span>
+  </a>
+
+  <footer class="footer">Runs locally - no tracking, no network calls</footer>
+
+  <script src="popup.js"></script>
+</body>
+</html>
