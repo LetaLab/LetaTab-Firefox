@@ -52,7 +52,7 @@ Website is created by me and I do everything that is in my limited power to make
 
 The easiest way to install Leta Tab is straight from Firefox's official add-on store:
 
-[![Firefox Add-ons](https://img.shields.io/badge/Firefox%20Add--ons-Install-orange)](ADD-THIS-LATER)
+[![Firefox Add-ons](https://img.shields.io/badge/Firefox%20Add--ons-Install-orange)](https://addons.mozilla.org/en-GB/firefox/addon/leta-tab/)
 
 ## Screenshots
 
